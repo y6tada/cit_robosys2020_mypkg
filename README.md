@@ -1,8 +1,11 @@
 # cit_robosys2020_mypkg
 
-## Setup
+## Video
+[![](https://img.youtube.com/vi/TDrd6Gbrdqw&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=TDrd6Gbrdqw&feature=youtu.be)
 
-#### Install
+## About this repository
+
+## Install and execute
 ```
 # ros-<version>-spacenav-node is required to execute this software
 sudo apt install ros-noetic-spacenav-node
