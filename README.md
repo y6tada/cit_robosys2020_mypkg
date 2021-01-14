@@ -4,7 +4,7 @@
 Original Lecture: [ryuichiueda/robosys2020](https://github.com/ryuichiueda/robosys2020)
 
 ## Video
-[![](https://img.youtube.com/vi/TDrd6Gbrdqw&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=TDrd6Gbrdqw&feature=youtu.be)
+[![](https://img.youtube.com/vi/TDrd6Gbrdqw/0.jpg)](https://www.youtube.com/watch?v=TDrd6Gbrdqw)
 
 ## Operating environment
 ```
