@@ -1,5 +1,5 @@
 # cit_robosys2020_mypkg
-2020年度開口「CITロボットシステム学」の課題2「ROSを使ったアプリケーションの実装」のリポジトリです。Space Navigatorという6DoFの入力デバイスのうち、X軸の直進とZ軸の回転の2要素だけを抜き出して、Turtlesimを動作させます。本青果物は、Space Navigatorの入力とTurtlesimの動作は既存のパッケージに任せ、相互のトピック通信の間を取り持つPythonスクリプトを独自に実装したものです。
+2020年度開口「CITロボットシステム学」の課題2「ROSを使ったアプリケーションの実装」のリポジトリです。Space Navigatorという6DoFの入力デバイスのうち、X軸の直進とZ軸の回転の2要素だけを抜き出して、Turtlesimを動作させます。本成果物は、Space Navigatorの入力とTurtlesimの動作は既存のパッケージに任せ、相互のトピック通信の間を取り持つPythonスクリプトを独自に実装したものです。
 
 Original Lecture: [ryuichiueda/robosys2020](https://github.com/ryuichiueda/robosys2020)
 
